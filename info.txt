@@ -1,12 +1,7 @@
 {
-SIGMA
-thXyKseqqZlpCgln
-A0C944B32996F706
-youbetternot
+placement
+placemnet
+placemnet
+placement
 }
-{
-1176033674748248077
-qRUoGZEjxUmqXStE
-A0C944B32996F706
-None
-}
+
