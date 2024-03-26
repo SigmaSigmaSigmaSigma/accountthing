@@ -1,13 +1,8 @@
 
 {
-1176033674748248077
+SIGMA
 thXyKseqqZlpCgln
 A0C944B32996F706
 youbetternot
 }
-{
-1176033674748248077
-igmpDbzugGyafrYl
-A0C944B32996F706
-youbetternot
-}
+
